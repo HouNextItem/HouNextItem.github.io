@@ -1,10 +1,10 @@
 <style>
 .news {
-float: left;
+float: center;
 margin: 5px;
 padding: 15px;
 width: 300px;
-height: 300px;
+height: 500px;
 border: 1px solid white;
 } 
 #footer {
@@ -12,6 +12,6 @@ border: 1px solid white;
     color:black;
     clear:both;
     text-align:center;
-    padding:5px; 
+    padding:2px; 
 }
 </style>
