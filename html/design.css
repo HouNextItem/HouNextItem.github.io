@@ -23,7 +23,6 @@ body#homefirst div#maincontent div#partner
 		width: 307px;
 
 		float: left;
-
 		}
 
 body#homefirst div#maincontent div#update
@@ -224,18 +223,21 @@ body#homefirst div#maincontent div#d9 h3, body#homefirst div#maincontent div#d10
 
 		}
 
-body#homefirst div#maincontent div#d9 p, body#homefirst div#maincontent div#d10 p	{
-
-		font-size:14px;
-
-		margin:0 0 0 58px;
-
-		line-height:normal;
-
-		}
-
-div#d9 p a	{
-
-		color:#000;
-
-		}
+body#homefirst div#mainc
+<style>
+.news {
+float: left;
+margin: 5px;
+padding: 15px;
+width: 300px;
+height: 300px;
+border: 1px solid yellow;
+} 
+#footer {
+    background-color:Gray;
+    color:black;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+</style>
