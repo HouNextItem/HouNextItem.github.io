@@ -14,6 +14,19 @@ padding: 0;
 border: 0;
 background: #E8E7E3;
 } 
+ 
+.navigation#menu li a{
+text-indent: -9999px;
+overflow:hidden;
+text-decoration: none;
+}
+#h	{left:0;width:155px;}
+#b	{left:155px;width:157px;}
+#s	{left:312px;width:167px;}
+#d 	{left:479px;width:158px;}
+#x	{left:637px;width:101px;}
+#ws	{left:738px;width:185px;}
+#w	{left:923px;width:177px;}
     
 #footer {
 background-color:Gray;
