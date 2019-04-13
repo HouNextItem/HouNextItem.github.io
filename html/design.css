@@ -7,15 +7,18 @@ height: 500px;
 border: 1px solid black;
     
 .navigation{
-float: center;
-border: 1px solid black;
-background-color: Gray
+height: 48px;
+width: 1210px;		
+margin: 0 0 0 12px;
+padding: 0;
+border: 0;
+background: #E8E7E3;
 } 
     
 #footer {
-    background-color:Gray;
-    color:black;
-    clear:both;
-    text-align:center;
-    padding:2px; 
+background-color:Gray;
+color:black;
+clear:both;
+text-align:center;
+padding:2px; 
 }
