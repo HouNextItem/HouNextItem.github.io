@@ -15,7 +15,7 @@ border: 0;
 background: #E8E7E3;
 } 
  
-.navigation#menu li a{
+.navigation#menu li,ul#menu a{
 text-indent: -9999px;
 overflow:hidden;
 text-decoration: none;
