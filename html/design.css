@@ -1,4 +1,4 @@
-.news {
+.A {
 float: center;
 margin: 5px;
 padding: 15px;
@@ -15,11 +15,7 @@ border: 0;
 background: #E8E7E3;
 } 
  
-.navigation#menu li,ul#menu a{
-text-indent: -9999px;
-overflow:hidden;
-text-decoration: none;
-}
+.navigation#menu li,ul
 #h	{left:0;width:155px;}
 #b	{left:155px;width:157px;}
 #s	{left:312px;width:167px;}
