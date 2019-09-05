@@ -1,5 +1,14 @@
-<!--添加Minecraft pixel字体 sleek+Google Sans以及Google sans字体 
-test test test test test-->
+/*test*/
 
-p{font-family:"LittleMonkeyHou.github.io/fonts/Minecraft Pixel.ttf" ;}
-p{font-family:"LittleMonkeyHou.github.io/fonts/Sleek+Google Sans.ttf" ;}
+
+
+@font-face {
+font-family: MinecraftAE; /*字体名字*/
+src: url(‘LittleMonkeyHou.github.io/fonts/Minecraft Pixel.ttf’); /*字体文件路径*/
+}
+
+
+@font-face {
+font-family: Sleek+GoogleSans; /*字体名字*/
+src: url(‘LittleMonkeyHou.github.io/fonts/Sleek+Google Sans.ttf’); /*字体文件路径*/
+}
